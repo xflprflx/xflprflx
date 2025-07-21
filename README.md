@@ -1,5 +1,4 @@
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xflprflx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="start">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xflprflx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
@@ -7,7 +6,8 @@
 <div>
   <img alt="Java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" width="40" height="40" style="margin-right: 10px">
   <img alt="Spring" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40" style="margin-right: 10px">
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40">
+  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin-right: 10px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40" />
 </div>
   
 ## Contact me
